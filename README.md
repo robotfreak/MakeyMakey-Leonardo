@@ -2,7 +2,8 @@
 
 A MakeyMakey Shield for the Arduino Leonardo. Including a modified amkey-makey Arduino Sketch for Arduino Leonardo or other U32 based boards.
 
-[![MakeyMakey](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Pictures/IMG_4019_20_21_tonemapped.jpg)]
+![MakeyMakey](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Pictures/IMG_4019_20_21_tonemapped.jpg)
+*Makey-Makey-Shield*
 
 ## Part List
 
@@ -16,7 +17,8 @@ A MakeyMakey Shield for the Arduino Leonardo. Including a modified amkey-makey A
 
 ## Schematic
 
-[![MakeyMakey Schematic](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Fritzing/makeymakey/MaKey-MaKey-Shield_Steckplatine.png)]
+![MakeyMakey Schematic](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Fritzing/makeymakey/MaKey-MaKey-Shield_Steckplatine.png)
+*MakeyMakey Schematic*
 
 # License
 
