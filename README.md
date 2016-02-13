@@ -4,6 +4,14 @@ A MakeyMakey Shield for the Arduino Leonardo. Including a modified amkey-makey A
 
 [![MakeyMakey](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Pictures/IMG_4019_20_21_tonemapped.jpg)]
 
+## Part List
+
+* 1 piece protoboard 100x80mm
+* 1 set Arduino stackable headers
+* 8 x 20Mega Ohm resistors
+* 1 piece self adhesive copper band 
+* wire
+
 ## Schematic
 
 [![MakeyMakey Schematic](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Fritzing/makeymakey/MaKey-MaKey-Shield_Steckplatine.png)]
