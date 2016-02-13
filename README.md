@@ -20,6 +20,10 @@ A MakeyMakey Shield for the Arduino Leonardo. Including a modified Arduino Sketc
 ![MakeyMakey Schematic](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Fritzing/makeymakey/MaKey-MaKey-Shield_Steckplatine.png)
 *MakeyMakey Schematic*
 
+## Video
+
+A video is available at youtube: https://www.youtube.com/watch?v=7Rf3TA9gLv0
+
 # License
 
 Distributed as-is; no warranty is given.
