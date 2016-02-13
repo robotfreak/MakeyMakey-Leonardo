@@ -10,7 +10,7 @@ A MakeyMakey Shield for the Arduino Leonardo. Including a modified Arduino Sketc
 * Arduino Leonardo
 * 1 piece protoboard 100x80mm
 * 1 set Arduino stackable headers
-* 8 x 20Mega Ohm resistors
+* 8 x 20Mega Ohm resistors or 16 x 10Mega Ohm
 * 1 piece self adhesive copper band
 * 10 x soldering pins
 * wire
