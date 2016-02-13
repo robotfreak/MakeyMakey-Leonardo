@@ -2,6 +2,10 @@
 
 A MakeyMakey Shield for the Arduino Leonardo. 
 
+[![MakeyMakey](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Pictures/IMG_4019_20_21_tonemapped.jpg)]
+
+[![MakeyMakey Schematic](https://github.com/robotfreak/MakeyMakey-Leonardo/blob/master/hardware/Fritzing/makeymakey/MaKey-MaKey-Shield_Steckplatine.png)]
+
 # License
 
 Distributed as-is; no warranty is given.
