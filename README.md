@@ -6,10 +6,12 @@ A MakeyMakey Shield for the Arduino Leonardo. Including a modified amkey-makey A
 
 ## Part List
 
+* Arduino Leonardo
 * 1 piece protoboard 100x80mm
 * 1 set Arduino stackable headers
 * 8 x 20Mega Ohm resistors
-* 1 piece self adhesive copper band 
+* 1 piece self adhesive copper band
+* 10 x soldering pins
 * wire
 
 ## Schematic
