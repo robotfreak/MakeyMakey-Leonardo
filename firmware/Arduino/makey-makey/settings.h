@@ -1,4 +1,5 @@
-#include <Arduino.h>
+#include "Arduino.h"
+
 /*
 /////////////////////////////////////////////////////////////////////////
 // KEY MAPPINGS: WHICH KEY MAPS TO WHICH PIN ON THE MAKEY MAKEY BOARD? //
@@ -44,6 +45,22 @@ int keyCodes[NUM_INPUTS] = {
                                           // 100 = 5V (never use this high)
                                           // 0 = 0 V (never use this low
                                         
+
+/////////////////////////
+// MOUSE MOTION /////////
+/////////////////////////
+#define MOUSE_MOTION_UPDATE_INTERVAL  35   // how many loops to wait between 
+                                           // sending mouse motion updates
+                                           
+#define PIXELS_PER_MOUSE_STEP         4     // a larger number will make the mouse
+                                           // move faster
+
+#define MOUSE_RAMP_SCALE              150  // Scaling factor for mouse movement ramping
+                                           // Lower = more sensitive mouse movement
+                                           // Higher = slower ramping of speed
+                                           // 0 = Ramping off
+                                            
+#define MOUSE_MAX_PIXELS              10   // Max pixels per step for mouse movement
 
 /*
 
